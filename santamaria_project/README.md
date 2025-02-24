@@ -2,18 +2,6 @@
 
 This project visualizes the 3-year GDP and population growth forecasts for Mexico, New Zealand, Thailand, and Sweden based on 2023 data. The project aims to demonstrate front-end and back-end development skills at an entry-level, in alignment with the Trading Economics hiring process.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Backend](#backend)
-- [API Connection](#api-connection)
-- [Frontend](#frontend)
-  - [HTML](#html)
-  - [JavaScript](#javascript)
-  - [CSS](#css)
-- [How to Run](#how-to-run)
-- [License](#license)
-
 ## Overview
 
 The project consists of a backend server that fetches data from the Trading Economics API and a frontend that displays the data in a table format. The data includes GDP and population forecasts for the selected countries.
